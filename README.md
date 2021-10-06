@@ -40,3 +40,16 @@
 ![image](https://user-images.githubusercontent.com/84037413/136264649-09450367-0706-4412-9211-fbb290810038.png)
 
 
+# Install mysqlclient , if you get any error refer the link,
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#mysqlclient
+
+Downlod the below mentioned file and install using pip command,
+
+![image](https://user-images.githubusercontent.com/84037413/136271915-6da39da1-80ce-4a89-b04b-22d1525d979d.png)
+
+pip install mysqlclient-1.4.6-cp36-cp36m-win32.whl
+
+
+
+
+
