@@ -7,7 +7,13 @@
   pip install mysql-connector-python
   
   create new directory student-mgmt
-  
+  or create venv
+```
+![image](https://user-images.githubusercontent.com/84037413/136268942-2cf2524e-2063-43bc-a8e4-19e877032a33.png)
+# For deactivate : deactivate system-mgmt
+
+
+```
   django-admin startproject student_mgmt_system
   
   Login to my sql-> username root & pwd root 
