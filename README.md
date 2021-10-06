@@ -1,7 +1,7 @@
 # student-management-django
 
 #Prerequisite:
-'''
+````
   pip install django
   pip install mysql-connector-python
   create new directory student-mgmt
@@ -12,5 +12,4 @@
   ![image](https://user-images.githubusercontent.com/84037413/136261426-8c607c1f-b76e-44f0-8565-26e094228789.png)
 
   
-'''
-
+```
